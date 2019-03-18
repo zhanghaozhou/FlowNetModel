@@ -1,3 +1,9 @@
+Important:
+
+This is a copy of codes of git https://github.com/NVIDIA/flownet2-pytorch
+For purpose of test.
+
+
 # flownet2-pytorch 
 
 Pytorch implementation of [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925). 
